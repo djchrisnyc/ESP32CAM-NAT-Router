@@ -18,8 +18,7 @@ Create a ESP32 router using the ESP32CAM
 
 ![Youtube ESP32 video](https://github.com/ereedsanchez/ESP32-Router-Process/blob/main/ESP32Vid.png)
 
-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr
-" target="_blank"><img src="http://img.youtube.com/vi/41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr" target="_blank"><img src="http://img.youtube.com/vi/41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border
 
 
