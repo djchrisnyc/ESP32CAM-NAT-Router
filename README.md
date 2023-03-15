@@ -1,13 +1,13 @@
 # ESP32-Router-Process
 
-Name of Project
+## Name of Project
 
-Purpose
+## Purpose
 
-Equipment
+## Equipment
 
-Link for Documentation 
+## Link for Documentation 
 
-Steps I followed
+## Steps I followed
 
-Problems
+## Problems
