@@ -13,7 +13,7 @@ Create a ESP32 router using the ESP32CAM
 
 ## Link to Documentation 
 - [GitHub - martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router)
-
+- Youtube Video 1
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr" target="_blank"><img src="https://github.com/ereedsanchez/ESP32-Router-Process/blob/main/pics/ESP32Vid.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
