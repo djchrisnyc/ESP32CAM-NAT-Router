@@ -19,7 +19,7 @@ Create a ESP32 router using the ESP32CAM
 alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
 
 ##### Youtube Video 2: ESP32 NAT Router
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BP1Dz66faf4" target="_blank"><img src="img src="http://img.youtube.com/vi/BP1Dz66faf4/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BP1Dz66faf4" target="_blank"><img src="http://img.youtube.com/vi/BP1Dz66faf4/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
 
 
