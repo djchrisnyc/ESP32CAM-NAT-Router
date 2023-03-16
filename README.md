@@ -25,5 +25,6 @@ alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
 
 
 ## Steps I followed
+1. Download Expressif Flash Downloads Tool
 
 ## Problems
