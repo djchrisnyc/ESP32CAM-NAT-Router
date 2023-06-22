@@ -1,4 +1,5 @@
-# ESP32-Router-Process
+# ESP32CAM-NAT-Router
+### Cybersecurity 150 Lab
 
 ## Name of Project
 ESP32 NAT Router
