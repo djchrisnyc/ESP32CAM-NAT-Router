@@ -1,11 +1,10 @@
-# ESP32CAM-NAT-Router
-### Cybersecurity 150 Lab
+# Cybersecurity 150 Lab
 
 ## Name of Project
 ESP32 NAT Router
 
 ## Purpose
-Create a ESP32 router using the ESP32CAM
+Create an ESP32 router using the ESP32CAM.
 
 ## Equipment
 * [ESP32Cam](https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_3?crid=4FY0ECFW0ZX7&keywords=ESP32+Cam&qid=1678902050&sprefix=esp32+cam%2Caps%2C240&sr=8-3)
@@ -26,6 +25,11 @@ alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
 
 
 ## Steps I followed
-1. Download Expressif Flash Downloads Tool
+1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work. 
 
 ## Problems
+Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer.
+
+Example
+1. Arduino code will not load on ESP32 Cam.
+   Answer: Camera drivers where incorrect I needed to install the driver: [https://www.wch-ic.com/downloads/CH341SER_ZIP.html](https://github.com/martin-ger/esp32_nat_router).  I used file, : CH341SER.ZIP" and it worked.
